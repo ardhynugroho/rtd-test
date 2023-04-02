@@ -32,3 +32,19 @@ For example:
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
 
+ini paragraf lain
+
+#. tes ::
+
+     dfsf
+    
+   text lain ::
+   
+     lskjdf
+   
+   yang lain ::
+   
+     >>> python
+     >>> tes
+
+#. dfs
